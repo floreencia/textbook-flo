@@ -1,3 +1,14 @@
+# Computational and Inferential Thinking with Pandas and Seaborn
+
+This repository is based on the book Computational and Inferential Thinking https://github.com/data-8/textbook
+
+Content is modified to use the Python modules pandas and Seaborn instead of datascience.
+
+* The word Table is used interchangeably with DataFrame
+
+
+---
+
 # Computational and Inferential Thinking
 
 This repository holds the Jupyter Book source for Computational and Inferential
